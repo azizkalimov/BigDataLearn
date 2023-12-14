@@ -1,0 +1,1 @@
+Poorly optimized for the platform, resulting in constant crashes and freezing.
